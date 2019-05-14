@@ -29,9 +29,9 @@
 请创作者及公众监督，如有资料违反许可协议，请告知我们改正错误。
 
 # 反馈方式
-- [issue](https://github.com/mbinary/USTC-CS-Courses-Resource/issues/new)
+- [issue](https://github.com/roctar/USTC-CS-Courses-Resource)
 - <a href="mailto:&#122;huheqin1@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
-- [QQ](http://wpa.qq.com/msgrd?v=3&uin=414313516&site=qq&menu=yes)
+- [QQ](http://wpa.qq.com/msgrd?v=3&uin=248056576&site=qq&menu=yes)
 
 # 资料下载
 <!--
