@@ -50,8 +50,6 @@
    - 路径：/ebook/USTC-CS-Courses-Resource；
    - Connect As Guest
 
-感谢 @USTC-LUG, @[zzh1996](https://github.com/zzh1996), @[volltin](https://github.com/volltin)
-
 
 ## HTTPS
 -->
